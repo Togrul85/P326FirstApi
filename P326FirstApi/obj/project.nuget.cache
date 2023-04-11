@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nk9kYZGTKydgMrCenmPm4bKLbYUxbvL6R8kwFjGxC90GoAzKnj6HuvzQm1G8o7jc2y2jMB8fz9RWnt2zMFDpNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Togrul\\Desktop\\Backend\\P326FirstApi\\P326FirstApi\\P326FirstApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Togrul\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Togrul\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Togrul\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Togrul\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Togrul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Togrul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
